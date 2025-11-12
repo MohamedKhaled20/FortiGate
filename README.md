@@ -1,7 +1,27 @@
-FortiGate Lab Overview
+This project is a complete documentation of my Fortinet FortiGate learning journey — designed to help anyone who wants to understand firewall concepts in a clear, practical way.
 
-Hands-on lab exploring FortiGate features: firewall policies, NAT, VPNs, HA, SD-WAN, and security services.
+I built this roadmap after realizing how difficult it can be to find structured, hands-on material for FortiGate.
+Here, you’ll find my lab results, configurations, step-by-step notes, and final conclusions covering:
 
-How I Managed It: Built the lab, configured features step by step, tested connectivity and failover, documented everything, and analyzed results.
+🔹 Initial Configuration & Backups
 
-Key Takeaways: Gained practical configuration, troubleshooting, and network security experience.
+🔹 Firewall Policies & NAT
+
+🔹 High Availability (HA)
+
+🔹 VLANs & Routing
+
+🔹 IPsec VPNs
+
+🔹 Proxy-Based Antivirus & SSL Deep Inspection  
+
+
+👨‍💻 About Me
+Name: Mohamed Khaled
+Field: Cybersecurity & Network Engineering
+
+📫 Connect with Me
+
+💼 LinkedIn : www.linkedin.com/in/mohamed-khaled-gaber
+
+✉️ Email : kmohamed20776@gmail.com
